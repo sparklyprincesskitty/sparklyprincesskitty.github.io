@@ -1,0 +1,56 @@
+section{
+  width: 250px;
+  height: 250px;
+	margin:10px;
+  right-margin: 10px;
+  left-margin: 10px;
+  color: blue;
+  background-color:rgba(255, 192, 203, 1.0);	
+			 /*  background-image:url("https://64.media.tumblr.com/bf0228da629d47c3fadf6650158d2bff/1d6bf781cde32812-0c/s540x810/03df2a85a47f3fa8bf1a15e6d4f98abcb72905d1.gifv");
+  background-size:250px 260px; */
+}
+ 
+body{
+    background-image: url("https://img1.picmix.com/output/stamp/normal/7/6/6/9/1769667_6b128.gif");
+    background-attachment: fixed;
+    font-family:arial;
+}
+
+p{
+  font-size: 20px;
+  color: black;
+  margin-left: 5px;
+  padding: 30px; 
+}
+
+.frijole{
+  margin-left: 278px;
+  margin-top: -270px;
+}
+.frijole2{
+  margin-left: 545px;
+  margin-top: -270px;
+}
+
+.frijole3{
+  margin-left: 815px;
+  margin-top: -270px;
+}
+
+.frijole4{
+  margin-left: 1090px;
+  margin-top: -270px;
+}
+
+.banner{
+ background-color: pink;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align:center;`
+}
+
+a{
+  color: black;
+  text-decoration: none;
+}
+
